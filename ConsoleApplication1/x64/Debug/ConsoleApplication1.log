@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\ConsoleApplication1\ConsoleApplication1.cpp(10,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\ConsoleApplication1\ConsoleApplication1.cpp(53,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\ConsoleApplication1\ConsoleApplication1.cpp(54,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\ConsoleApplication1\ConsoleApplication1.cpp(55,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\ConsoleApplication1\ConsoleApplication1.cpp(68,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  ConsoleApplication1.vcxproj -> C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
